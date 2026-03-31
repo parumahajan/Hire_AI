@@ -79,7 +79,7 @@ HireAI is a cutting-edge interview platform that leverages artificial intelligen
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/hardikagarwal2026/HireAI
+git clone https://github.com/parumahajan/Hire_AI
 ```
 
 ### 2. Frontend Setup
