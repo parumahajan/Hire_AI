@@ -272,18 +272,4 @@ Response:
 }
 ```
 
-## 📞 Support
 
-For support:
-1. Create an issue in the repository
-2. Check the error logs in:
-   - Frontend: `frontend/logs/`
-   - Backend: `resume-analyzer-backend/logs/`
-3. Review documentation in the `docs/` directory
-
-## 🙏 Acknowledgments
-
-- Google Cloud Platform for AI services
-- Twilio for SMS capabilities
-- Deepgram for speech recognition
-- HuggingFace for ML models 
